@@ -7,22 +7,24 @@
 - [ ] Documentation content changes
 - [ ] Other (please describe): 
 
+<!-- You check one of the boxes by adding an X like so: [X]  -->
+
 ## Work Done
 
 ### Brief Description
 
-<!-- _Discuss what you worked on in the PR. Preferably in Bulletpoints_ -->
+<!-- Discuss what you worked on in the PR. Preferably in Bulletpoints -->
 
 ### Preview
 
-<!-- _(optional) Any Images, videos or important details that you need to provide as preview_ -->
+<!-- (optional) Any Images, videos or important details that you need to provide as preview -->
 
 ## Does the Pull Request introduce Breaking Changes?
 
-- [ ] Yes
-- [ ] No
+- [ ] Yes. <!-- (if yes, give one sentence explaining why) -->
+- [ ] No.
 
 ## Does this PR address any pending issues? 
 
-- [ ] Yes (if yes, provide a link to the issue on Github or Jira)
-- [ ] No
+- [ ] Yes. [JIRA_TICKET-NUMBER](paste url here) <!-- (if yes, provide a link to the issue on Github or Jira, otherwise remove the placeholder.) -->
+- [ ] No.
